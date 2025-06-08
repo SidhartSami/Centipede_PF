@@ -1,3 +1,8 @@
+---
+🔗 Connect
+For professional inquiries or collaborations:
+LinkedIn – Sidhart Sami
+---
 # 🕹️ Centipede Game – SFML C++ Implementation
 
 **Author:** Sidhart Sami (https://www.linkedin.com/in/sidhart-sami/)
@@ -50,11 +55,6 @@ A playable demo video is available inside the repository.
   - Player touches poisonous mushroom.
 
 ---
-🔗 Connect
-For professional inquiries or collaborations:
-LinkedIn – Sidhart Sami
-
----
 
 ## 🛠️ Build Instructions
 
@@ -66,6 +66,7 @@ LinkedIn – Sidhart Sami
 ```bash
 g++ Centipede.cpp -o centipede -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
 ./centipede
+```
 
 © 2023 Sidhart Sami – All Rights Reserved.
 
