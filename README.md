@@ -1,4 +1,3 @@
----
 🔗 Connect
 For professional inquiries or collaborations:
 LinkedIn – Sidhart Sami
